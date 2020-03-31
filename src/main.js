@@ -8,6 +8,9 @@ import "./assets/css/main.styl";
 
 import "./plugins";
 
+// Custom directives
+import "./directives";
+
 Vue.config.productionTip = false;
 
 new Vue({
