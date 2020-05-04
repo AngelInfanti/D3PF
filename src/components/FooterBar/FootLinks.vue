@@ -3,9 +3,7 @@
     <b-nav small align="start">
       <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
       <b-nav-item :to="{ name: 'About' }">About</b-nav-item>
-      <b-nav-item
-        href="https://github.com/baumannzone/diablo3-vue-platzi"
-        target="_blank"
+      <b-nav-item href="https://github.com/AngelInfanti/D3PF" target="_blank"
         >Github
       </b-nav-item>
     </b-nav>
@@ -14,6 +12,6 @@
 
 <script>
 export default {
-  name: "FootLinks"
+  name: "FootLinks",
 };
 </script>

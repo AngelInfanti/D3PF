@@ -29,30 +29,30 @@ export default {
         {
           classes: ["fab", "vuejs"],
           color: "#4fc08d",
-          href: "https://vue.js.org/"
+          href: "https://vue.js.org/",
         },
         {
           classes: ["fab", "bootstrap"],
           color: "#7952b3",
-          href: "https://bootstrap-vue.js.org/"
+          href: "https://bootstrap-vue.js.org/",
         },
         {
           classes: ["fab", "battle-net"],
           href:
-            "https://develop.battle.net/documentation/diablo-3/community-apis"
+            "https://develop.battle.net/documentation/diablo-3/community-apis",
         },
         {
           classes: ["fab", "github"],
           color: "#e4e4e4",
-          href: "https://github.com/baumannzone"
+          href: "https://github.com/AngelInfanti",
         },
         {
           classes: ["fab", "font-awesome"],
           color: "#0e95ff",
-          href: "https://fontawesome.com/"
-        }
-      ]
+          href: "https://fontawesome.com/",
+        },
+      ],
     };
-  }
+  },
 };
 </script>
